@@ -1,0 +1,15 @@
+---
+dg-publish: true
+---
+
+L’ATTO PRATICO COME CONSAPEVOLEZZA NON IMMEDIATA
+
+Un analisi che parte dal laboratorio di NTA, un territorio che accoglie circa ottanta ragazzi ognuno con un vissuto, una consapevolezza e una sensibilità differente.
+L’atto pratico come lavoro costante su di sé e sul collettivo, un processo continuo attraverso cui si sviluppa e si consolida una consapevolezza profonda. Una consapevolezza che non nasce soltanto dal pensiero, bensì dall’azione, dalla prova e dal gesto. É un atto pratico esso stesso, una postura che va coltivata e allenata ogni singolo giorno. Quando questa consapevolezza inizia a prendere forma, modifica involontariamente il nostro modo di stare al mondo e la nostra postura nell’affrontare le diverse situazioni. Questo cambiamento interiore trasfigura la percezione di chi ci sta vicino, innescando una trasformazione silenziosa ma profonda nelle relazioni. È ciò che si vive nell'esperienza di un laboratorio condiviso, dove il lavoro complessivo nasce dall'incontro e dal confronto quotidiano tra consapevolezze differenti. L’atto pratico ci offre la libertà di esprimerci anche senza l'uso delle parole, dando vita a sensazioni condivise e sguardi complici. È il tentativo concreto di comunicare ciò che la voce non riesce a dire, affidandosi ai gesti e all'azione. Ciò che si riconosce chiaramente dopo anni di lavoro collettivo è che questa maturazione nasce dalla messa in discussione quotidiana delle sensibilità di oltre ottanta persone. Pur partendo dallo stesso punto, ognuna porta il proprio vissuto, ma nessuno si ferma davanti alla bufera: la certezza condivisa è che non si è mai da soli. 
+L'obiettivo è misurare l'atto pratico non attraverso le parole, ma attraverso tracce fisiche invisibili, come la variazione di calore corporeo, il ritmo di movimento, la frequenza di presenza e la densità dello spazio. L'esercizio consiste nel monitorare lo spazio del laboratorio durante una sessione di lavoro collettivo, registrando con una termocamera e specifici software la trasformazione dell'energia termica all'interno della stanza. L'atto visibile non è la discussione, ma la vibrazione termica del fare: la postura che si scalda, la concentrazione che genera calore corporeo, la vicinanza fisica tra persone che collaborano l’uno con l’altro. Integrando la termocamera con un software di analisi del movimento, si mappa come le persone cambiano la propria inclinazione corporea di fronte alle difficoltà. Il laboratorio smette di essere una somma di individui e diventa un unico organismo vivente visibile all'infrarosso. 
+
+[[comunicazione non verbale]] [[consapevolezza]] [[pratica]] [[termocamera]] [[divergenze]] [[ricerca etnografica]] [[intelligenza collettiva]] [[flussi]]
+
+[[Ale Esp]] [[Scilla]] [[Michela]] [[Delia]] [[William]] [[Maria]] [[Sellitri]]
+
+#Franz 
