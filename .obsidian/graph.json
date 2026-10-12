@@ -5,20 +5,83 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:TESISTU  ",
+      "query": "tag:#Alfredo  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 32777
       }
     },
     {
-      "query": "path:Suggestioni  ",
+      "query": "tag:#Franz  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "tag:#Veronica  ",
+      "color": {
+        "a": 1,
+        "rgb": 16722374
+      }
+    },
+    {
+      "query": "path:Ricerca  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741703
+      }
+    },
+    {
+      "query": "path:\"Riunioni Franz\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "Path:\"Riunioni Alfredo\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 392994
+      }
+    },
+    {
+      "query": "Path:\"Riunioni Veronica\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16740576
+      }
+    },
+    {
+      "query": "Path:Sperimentazioni  ",
+      "color": {
+        "a": 1,
+        "rgb": 16718384
+      }
+    },
+    {
+      "query": "Path:Suggestioni  ",
+      "color": {
+        "a": 1,
+        "rgb": 8030975
+      }
+    },
+    {
+      "query": "Tag:#Laboratorio  ",
+      "color": {
+        "a": 1,
+        "rgb": 52479
+      }
+    },
+    {
+      "query": "Path: \"Stefano Maltese\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16759009
       }
     }
   ],
@@ -32,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5798952792831059,
+  "scale": 0.7723543559879239,
   "close": true
 }

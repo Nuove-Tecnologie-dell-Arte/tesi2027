@@ -4,73 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "68fd2cce6deadd50",
+        "id": "533b99472ec88576",
         "type": "tabs",
         "children": [
           {
-            "id": "56d63b22de09577e",
+            "id": "0804c46c5154a51f",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Vista grafo"
-            }
-          },
-          {
-            "id": "25d1bdad9cab04d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stefano Maltese/STEFANO MALTESE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "STEFANO MALTESE"
-            }
-          },
-          {
-            "id": "e4f54c96bebc6e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stefano Maltese/Bibliografia Stefano.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bibliografia Stefano"
-            }
-          },
-          {
-            "id": "82b76b3ad4958082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stefano Maltese/Incontri Stefano Maltese.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Incontri Stefano Maltese"
-            }
-          },
-          {
-            "id": "3f4467d66acf2d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stefano Maltese/Intervista Trappola.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intervista Trappola"
             }
           }
         ]
@@ -135,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5989d4ffb2528c19",
@@ -241,15 +185,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56d63b22de09577e",
+  "active": "0804c46c5154a51f",
   "lastOpenFiles": [
     "Stefano Maltese/STEFANO MALTESE.md",
     "Stefano Maltese/Intervista Trappola.md",
-    "README.md",
     "Stefano Maltese/Incontri Stefano Maltese.md",
     "Stefano Maltese/Bibliografia Stefano.md",
+    "TESI 2027.md",
+    "Suggestioni/termocamera.md",
+    "Suggestioni/territorio.md",
+    "Riunioni Franz/1 Riunione Franz.md",
+    "Ricerca/Carta della transdisciplinarità - Morin.md",
+    "Ricerca/La solitudine del cittadino globale - Zygmunt Bauman.md",
+    "README.md",
     "Senza nome",
-    "Stefano Maltese",
-    "TESI 2027.md"
+    "Stefano Maltese"
   ]
 }
