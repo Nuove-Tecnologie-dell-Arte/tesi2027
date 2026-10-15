@@ -15,10 +15,11 @@
               "state": {
                 "aFile": ".obsidian/workspace.json",
                 "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ]
