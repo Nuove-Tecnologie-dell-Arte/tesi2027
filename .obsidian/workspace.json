@@ -11,10 +11,14 @@
             "id": "0804c46c5154a51f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -165,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Struttura"
             }
+          },
+          {
+            "id": "e517f0526e1d6e5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,18 +201,20 @@
   },
   "active": "0804c46c5154a51f",
   "lastOpenFiles": [
+    "Senza nome",
+    "Suggestioni/ricerca etnografica.md",
+    "README.md",
+    "Prova.md",
+    "TESI 2027.md",
     "Stefano Maltese/STEFANO MALTESE.md",
     "Stefano Maltese/Intervista Trappola.md",
     "Stefano Maltese/Incontri Stefano Maltese.md",
     "Stefano Maltese/Bibliografia Stefano.md",
-    "TESI 2027.md",
     "Suggestioni/termocamera.md",
     "Suggestioni/territorio.md",
     "Riunioni Franz/1 Riunione Franz.md",
     "Ricerca/Carta della transdisciplinarità - Morin.md",
     "Ricerca/La solitudine del cittadino globale - Zygmunt Bauman.md",
-    "README.md",
-    "Senza nome",
     "Stefano Maltese"
   ]
 }

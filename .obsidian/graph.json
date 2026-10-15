@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Alfredo  ",
@@ -26,13 +26,6 @@
       "color": {
         "a": 1,
         "rgb": 16722374
-      }
-    },
-    {
-      "query": "path:Ricerca  ",
-      "color": {
-        "a": 1,
-        "rgb": 16741703
       }
     },
     {
@@ -83,6 +76,13 @@
         "a": 1,
         "rgb": 16759009
       }
+    },
+    {
+      "query": "path:Ricerca  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741468
+      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9089064075331569,
+  "scale": 0.7428963218811423,
   "close": true
 }
