@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "533b99472ec88576",
+        "id": "68fd2cce6deadd50",
         "type": "tabs",
         "children": [
           {
-            "id": "0804c46c5154a51f",
+            "id": "56d63b22de09577e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "5989d4ffb2528c19",
@@ -95,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TESI 2027.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TESI 2027.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +159,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TESI 2027.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,7 +168,7 @@
             }
           },
           {
-            "id": "e517f0526e1d6e5f",
+            "id": "1bec4dd786ca6ebf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -181,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,22 +196,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0804c46c5154a51f",
+  "active": "56d63b22de09577e",
   "lastOpenFiles": [
     "README.md",
-    "Senza nome",
-    "Suggestioni/ricerca etnografica.md",
-    "Prova.md",
-    "TESI 2027.md",
     "Stefano Maltese/STEFANO MALTESE.md",
     "Stefano Maltese/Intervista Trappola.md",
     "Stefano Maltese/Incontri Stefano Maltese.md",
     "Stefano Maltese/Bibliografia Stefano.md",
-    "Suggestioni/termocamera.md",
-    "Suggestioni/territorio.md",
-    "Riunioni Franz/1 Riunione Franz.md",
-    "Ricerca/Carta della transdisciplinarità - Morin.md",
-    "Ricerca/La solitudine del cittadino globale - Zygmunt Bauman.md",
-    "Stefano Maltese"
+    "Stefano Maltese",
+    "Senza nome.md",
+    "Senza nome.canvas",
+    "TESI 2027.md"
   ]
 }
