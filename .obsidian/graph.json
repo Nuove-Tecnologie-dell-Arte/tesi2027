@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 16741468
       }
+    },
+    {
+      "query": "path: \"Parole chiave riunioni\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16580418
+      }
+    },
+    {
+      "query": "path: \"Riunioni Tesistu\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12562440
+      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6494059691293124,
+  "scale": 0.7705794367833912,
   "close": true
 }
