@@ -11,13 +11,28 @@
             "id": "56d63b22de09577e",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "844d45148b025875",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Vista grafo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56d63b22de09577e",
+  "active": "844d45148b025875",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Parole chiave riunioni/diario di bordo.md",
     "Parole chiave riunioni/strumenti.md",
     "Parole chiave riunioni/attitudini.md",
@@ -208,6 +224,11 @@
     "Riunioni Tesistu/28 OTTOBRE 2026 - benedetta.md",
     "Riunioni Tesistu/8 OTTOBRE 2026.md",
     "TESISTU/Scilla.md",
+=======
+    "Riunioni Tesistu/28 OTTOBRE 2026 - giulia.md",
+    "Riunioni Tesistu/28 OTTOBRE 2026 - benedetta.md",
+    "Riunioni Tesistu/28 OTTOBRE 2026.md",
+>>>>>>> origin/main
     "README.md",
     "Stefano Maltese/STEFANO MALTESE.md",
     "Stefano Maltese/Intervista Trappola.md",
