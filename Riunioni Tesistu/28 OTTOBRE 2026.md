@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 In questa riunione di tesi abbiamo discusso la possibilità di scrivere un [[diario di bordo]] trasformando il nostro lavoro e quello che sta succedendo con lə ragazzə dell'Accademia in materiale di studio e ricerca per molte tesi. È fondamentale avere sempre bene in mente ciò che ci sta accadendo, perché riguarda tuttə noi in prima persona e si inserisce in una direzione di ricerca collettiva che ci accomuna fin dall'inizio.
 
 Ci rendiamo conto che stiamo letteralmente stravolgendo la nostra idea di tesi: il [[territorio]] che abbiamo scelto di indagare quest'anno ci offre l'opportunità di testare il nostro approccio ed entrare per la prima volta in contatto diretto con il territorio che è l'[[Accademia]]. Praticare il "metodo" di NTA all'esterno, mettendolo alla prova con qualcuno che non siamo noi, è il banco di prova più alto che potessimo avere. Le nostre tesi sono connesse fisicamente, anche se al momento non siamo ancora pronti per mischiare del tutto i diversi percorsi.
