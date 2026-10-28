@@ -31,8 +31,7 @@
               "title": "28 OTTOBRE 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b06ea216baa7c7f",
+  "active": "56d63b22de09577e",
   "lastOpenFiles": [
     "Riunioni Tesistu/28 OTTOBRE 2026.md",
     "README.md",
