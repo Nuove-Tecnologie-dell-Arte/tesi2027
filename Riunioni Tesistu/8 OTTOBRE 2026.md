@@ -2,8 +2,8 @@
 dg-publish: true
 ---
 
-Riunione Tesistu presentazioni abstract.
-titolo tesi unico, sottotitoli diversi per ognuno
+Riunione Tesistu [[presentazioni abstract]].
+[[titolo unico]] tesi, sottotitoli diversi per ognuno
 
 Erika: Documentario sul laboratorio. Accademia come corpo, anima dell’Accademia
 Collegamenti: Andrea, Lucia, Benedetta
