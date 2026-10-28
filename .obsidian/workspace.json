@@ -11,10 +11,14 @@
             "id": "56d63b22de09577e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Riunioni Tesistu/28 OTTOBRE 2026 - benedetta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28 OTTOBRE 2026 - benedetta"
             }
           }
         ]
@@ -194,8 +198,9 @@
   },
   "active": "56d63b22de09577e",
   "lastOpenFiles": [
-    "Riunioni Tesistu/28 OTTOBRE 2026 - benedetta.md",
     "Riunioni Tesistu/28 OTTOBRE 2026 - giulia.md",
+    "Riunioni Tesistu/28 OTTOBRE 2026 - benedetta.md",
+    "Riunioni Tesistu/8 OTTOBRE 2026.md",
     "TESISTU/Scilla.md",
     "README.md",
     "Stefano Maltese/STEFANO MALTESE.md",
